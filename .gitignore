@@ -1,2 +1,5 @@
 # Don't push artifacts to VC
 book/
+
+# Obviously
+.vscode/
