@@ -22,4 +22,4 @@
   * [🧙 Marketing and Community Management](market/business-plan/marketing-and-community-management.md)
   * [🧙 Simplifying Financing](market/business-plan/simplifying-financing.md)
 * [💸 Financials](market/financials.md)
-* [🌫 Roadmap](market/roadmap.md)
+* [🗺️ Roadmap](market/roadmap.md)
