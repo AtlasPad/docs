@@ -1,2 +1,0 @@
-# 💷 Bussines Plan
-
