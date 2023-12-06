@@ -1,4 +1,4 @@
-# 🎫 Vision
+# 🌍 Vision
 
 <mark class="highlight">**At AtlasPad, our vision is to shape a future where blockchain and crypto ecosystems are made accessible, efficient, and user-friendly for all. We aspire to create a world where retail users, startups, and established enterprises can seamlessly leverage the power of decentralized finance and crypto solutions in a rapidly evolving digital landscape.**</mark>
 
