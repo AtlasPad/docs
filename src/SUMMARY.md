@@ -1,25 +1,11 @@
 # Table of contents
 
-## 🌊 ATLAS ECOSYSTEM
-
-* [👀 PitchDeck](README.md)
-  * [🫂 Introduction & Overview](atlas-ecosystem/pitchdeck/introduction-and-overview.md)
-  * [🌍 Vision](atlas-ecosystem/pitchdeck/vision.md)
-  * [🎫 Mission](atlas-ecosystem/pitchdeck/mission.md)
-  * [🫖 Concept](atlas-ecosystem/pitchdeck/concept.md)
-  * [🇸🇴 Social Links](atlas-ecosystem/pitchdeck/social-links.md)
-
-## 🧞♂ Atlaspad Solutions
-
-* [🐳 All Solutions of Atlaspad](atlaspad-solutions/all-solutions-of-atlaspad/README.md)
-  * [🐟 AtlasPad Ecosystem Solutions for DeFi](atlaspad-solutions/all-solutions-of-atlaspad/atlaspad-ecosystem-solutions-for-defi.md)
-  * [🐟 AtlasPad Ecosystem Solutions for NFTs & Metaverse](atlaspad-solutions/all-solutions-of-atlaspad/atlaspad-ecosystem-solutions-for-nfts-and-metaverse.md)
-
-## 🫐 Market
-
-* [💷 Business Plan](market/business-plan/README.md)
-  * [🧙 Revenue Model](market/business-plan/revenue-model.md)
-  * [🧙 Marketing and Community Management](market/business-plan/marketing-and-community-management.md)
-  * [🧙 Simplifying Financing](market/business-plan/simplifying-financing.md)
-* [💸 Financials](market/financials.md)
-* [🗺️ Roadmap](market/roadmap.md)
+* [🔮 Atlaspad Trustless zk-Launchpad](README.md)
+  * [🎙 Introduction to "Atlaspad"](atlaspad-trustless-zk-launchpad/introduction-to-atlaspad.md)
+  * [🛠 Architecture of "Atlaspad"](atlaspad-trustless-zk-launchpad/architecture-of-atlaspad.md)
+  * [👥 Team of the "Atlaspad"](atlaspad-trustless-zk-launchpad/page-2.md)
+  * [📑 Go-to-Market Strategy for "AtlasPad"](atlaspad-trustless-zk-launchpad/go-to-market-strategy-for-atlaspad.md)
+  * [📈 Predicted Success of "Atlaspad"](atlaspad-trustless-zk-launchpad/predicted-success-of-atlaspad.md)
+  * [🎥 Commercial Vision of "Atlaspad"](atlaspad-trustless-zk-launchpad/commercial-vision-of-atlaspad.md)
+  * [🛣 Milestones of "Atlaspad"](atlaspad-trustless-zk-launchpad/milestones-of-atlaspad.md)
+  * [👀 Long-term Vision with Mina Protocol](atlaspad-trustless-zk-launchpad/long-term-vision-with-mina.md)
