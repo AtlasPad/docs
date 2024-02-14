@@ -1,6 +1,6 @@
 # 📈 Predicted Success of "Atlaspad"
 
-<figure><img src="../assets/diagram(23).png" alt=""><figcaption><p>Figure: Projection</p></figcaption></figure>
+<figure><img src="../assets/diagram(23).png" data-clickable-image><figcaption><p>Figure: Projection</p></figcaption></figure>
 
 <mark style="color:purple;">**1. Active User Base:**</mark> AtlasPad should aim to have a substantial and growing user base. This can be quantified by tracking the number of registered users actively engaging with the platform. A target of at least 50,000 active users in 6 months would be a significant achievement.
 
