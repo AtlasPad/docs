@@ -1,6 +1,6 @@
 # 👀 Long-term Vision with the Mina Protocol
 
-<figure><img src="../assets/diagram(2)(1).png" alt=""><figcaption><p>Figure: Adoption MINA</p></figcaption></figure>
+<figure><img src="../assets/diagram(2)(1).png" data-clickable-image><figcaption><p>Figure: Adoption MINA</p></figcaption></figure>
 
 1. <mark style="color:purple;">**Global Accessibility for MINA:**</mark> AtlasPad becomes a global platform accessible to users from all corners of the world, breaking down geographical barriers in crypto investments and project funding.
 
