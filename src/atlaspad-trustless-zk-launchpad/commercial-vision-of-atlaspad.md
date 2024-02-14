@@ -1,6 +1,6 @@
 # 🎥 Commercial Vision of "Atlaspad"
 
-<figure><img src="../assets/Ekran Resmi 2024-02-14 13.41.46.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../assets/Ekran Resmi 2024-02-14 13.41.46.png" data-clickable-image><figcaption></figcaption></figure>
 
 1. <mark style="color:purple;">**Transaction Fees:**</mark> Implementing transaction fees for various activities on the platform can be a reliable source of revenue. For example, charging a small fee for project listings, token swaps, staking transactions, or withdrawals can generate consistent income as the platform's user base grows.
 
