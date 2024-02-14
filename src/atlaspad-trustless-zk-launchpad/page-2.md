@@ -137,7 +137,7 @@ _Presently working as a web and mobile developer remotely in iyiMakina, an Istan
 • LinkedIn: [https://www.linkedin.com/in/osmannyildiz/](https://www.linkedin.com/in/osmannyildiz/)\
 • GitHub: [https://github.com/osmannyildiz](https://github.com/osmannyildiz)
 
-**Berk Çiçek | Smartcontract Developer**
+### Berk Çiçek | Smart Contract Developer
 
 <figure class=right><img src="../assets/5.png" alt="" width="188"><figcaption><p>Berk Çiçek</p></figcaption></figure>
 
