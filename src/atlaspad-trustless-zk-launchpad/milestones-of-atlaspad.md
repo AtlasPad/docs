@@ -1,6 +1,6 @@
 # 🛣 Milestones of "Atlaspad"
 
-<figure><img src="../assets/diagram(22).png" alt=""><figcaption><p>Figure: Milestones</p></figcaption></figure>
+<figure><img src="../assets/diagram(22).png" data-clickable-image><figcaption><p>Figure: Milestones</p></figcaption></figure>
 
 #### <mark style="background-color:purple;">Advanced Scope Milestones</mark>
 
