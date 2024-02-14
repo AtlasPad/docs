@@ -4,7 +4,7 @@
 
 ### Çağlar Fırat | CEO
 
-<figure class=right><img src="../assets/7.png" alt="" width="188"><figcaption><p>Çağlar Fırat</p></figcaption></figure>
+<figure class=right><img src="../assets/7.png" data-clickable-image width="188"><figcaption><p>Çağlar Fırat</p></figcaption></figure>
 
 - Active in the crypto sector since 2019. 
 - Global community leader and BD & Kols manager at Kommunitas.net. 
@@ -22,7 +22,7 @@ _Çağlar devised strategic plans for the `Turkey, Arab, Russia, and China regio
 
 ### Baturalp Güvenç | CTO
 
-<figure class=right><img src="../assets/1.png" alt="" width="188"><figcaption><p>Baturalp Güvenç</p></figcaption></figure>
+<figure class=right><img src="../assets/1.png" data-clickable-image width="188"><figcaption><p>Baturalp Güvenç</p></figcaption></figure>
 
 **Graduated Department:** Computer Engineering on 2018 \
 **Active Smart Contract Developer:** DATS Project & Arbeit Studio & Cuberium \
@@ -53,7 +53,7 @@ _Çağlar devised strategic plans for the `Turkey, Arab, Russia, and China regio
 
 ### Sena Atay | CMO
 
-<figure class=right><img src="../assets/6.png" alt="" width="188"><figcaption><p>Sena Atay</p></figcaption></figure>
+<figure class=right><img src="../assets/6.png" data-clickable-image width="188"><figcaption><p>Sena Atay</p></figcaption></figure>
 
 She graduated from Bilkent University, Information Technology and Information Systems. She knows various software languages like `C++, C#, Java, .NET`.
 
@@ -63,7 +63,7 @@ _She is active in crypto world since 2021 and she worked as a community & market
 
 ### Yunus Emre Yoldaş | Backend & Smartcontract Developer
 
-<figure class=right><img src="../assets/3.png" alt="" width="188"><figcaption><p>Yunus Emre Yoldaş</p></figcaption></figure>
+<figure class=right><img src="../assets/3.png" data-clickable-image width="188"><figcaption><p>Yunus Emre Yoldaş</p></figcaption></figure>
 
 _Emre, at the age of 13, ventured into the world of computers, initially introduced to it by friends as a means to play games. For the first five years, he regarded computers merely as a source of entertainment. However, later on, the creative potential within this realm steered him towards programming. While exploring the Android community,_
 \
@@ -93,7 +93,7 @@ _Emre also developed practical tools to simplify his daily life. A chance encoun
 
 ### Yiğid Balaban | Frontend & UI/UX Developer;
 
-<figure class=right><img src="../assets/4.png" alt="" width="188"><figcaption><p>Yiğid Balaban</p></figcaption></figure>
+<figure class=right><img src="../assets/4.png" data-clickable-image width="188"><figcaption><p>Yiğid Balaban</p></figcaption></figure>
 
 Yiğid BALABAN is a 3rd year student at Uludag University, majoring in Computer Engineering. He is also the founder of [arbeit studio](https://arbeit.studio) and [Uludag Technology and Philosophy Community](https://instagram.com/uludagtft). His first interaction with computers was back when he was 4, and from that age, his curiosity and admirance against technology only developed further.
 
@@ -109,7 +109,7 @@ Some keypoints:
 
 ### Osman Nuri Yıldız | Full-stack Developer
 
-<figure class=right><img src="../assets/WhatsApp Image 2024-02-12 at 13.09.00.jpeg" alt="" width="188"><figcaption><p>Osman Nuri Yıldız</p></figcaption></figure>
+<figure class=right><img src="../assets/WhatsApp Image 2024-02-12 at 13.09.00.jpeg" data-clickable-image width="188"><figcaption><p>Osman Nuri Yıldız</p></figcaption></figure>
 
 _Full-stack web, mobile and Blockchain developer. Graduated from Computer Engineering in (2023)._ \
 
@@ -139,7 +139,7 @@ _Presently working as a web and mobile developer remotely in iyiMakina, an Istan
 
 ### Berk Çiçek | Smart Contract Developer
 
-<figure class=right><img src="../assets/5.png" alt="" width="188"><figcaption><p>Berk Çiçek</p></figcaption></figure>
+<figure class=right><img src="../assets/5.png" data-clickable-image width="188"><figcaption><p>Berk Çiçek</p></figcaption></figure>
 
 _Web security, blockchain researcher, smart contract developer, backend developer, ZK researcher. As of 2021, Berk is a third-year computer engineering student at Bülent Ecevit University._
 
@@ -167,7 +167,7 @@ _In 2022, he became a student at Siber Vatan where he received training in cyber
 
 ### Muhammed Akıncı
 
-<figure class=right><img src="../assets/8.png" alt="" width="188"><figcaption><p>Muhammed Akıncı</p></figcaption></figure>
+<figure class=right><img src="../assets/8.png" data-clickable-image width="188"><figcaption><p>Muhammed Akıncı</p></figcaption></figure>
 
 **Department:** _Software Engineering._ \
 **Active AI Developer:** _Cuberium_ \
@@ -194,7 +194,7 @@ _In 2022, he became a student at Siber Vatan where he received training in cyber
 
 ### Mehmet Hayırlı
 
-<figure class=right><img src="../assets/2.png" alt="" width="188"><figcaption><p>Mehmet Hayırlı</p></figcaption></figure>
+<figure class=right><img src="../assets/2.png" data-clickable-image width="188"><figcaption><p>Mehmet Hayırlı</p></figcaption></figure>
 
 **Department:** _Software Engineering._ \
 **Active SmartContract Developer:** _Cuberium_ \
