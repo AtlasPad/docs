@@ -3,18 +3,12 @@ title = "Atlaspad"
 authors = ["Atlaspad Developer Team"]
 description = "An introduction to the Atlaspad Ecosystem, showcasing solutions offered by Atlaspad."
 language = "en"
-text-direction = "ltr"
 
 [build]
-build-dir = "src"
 create-missing = false
 
-[preprocessor.index]
-
-[preprocessor.links]
-
 [output.html]
-additional-css = ["style.css"]
+additional-js = ["genesis/js/images.min.js"]
 git-repository-url = "https://github.com/atlaspad/docs"
 edit-url-template = "https://github.com/atlaspad/docs/issues/new"
 
