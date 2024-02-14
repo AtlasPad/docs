@@ -1,6 +1,6 @@
 # 📑 Go-to-Market Strategy for "AtlasPad"
 
-<figure><img src="../assets/Atlaspad.jpeg" alt="" width="375"></figure>
+<figure><img src="../assets/Atlaspad.jpeg" data-clickable-image width="375"></figure>
 
 ## MVP Development
 
