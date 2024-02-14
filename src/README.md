@@ -1,27 +1,15 @@
-# 👀 PitchDeck
+# 🔮 Atlaspad Trustless zk-Launchpad
 
-## <mark class="highlight">What is AtlasPad?</mark>
+<figure><img src=".gitbook/assets/Logo.png" alt=""><figcaption><p>Atlaspad Image</p></figcaption></figure>
 
-AtlasPad stands as a pioneering Launchpad and EVM - ICO platform tailored for the Web3 projects, geared towards introducing their innovative concepts to the public and igniting their token ecosystems.
+**Atlaspad**, introduces a the first and only trustless **Cross-Chain** **ZK Launchpad** that utilizes zero-knowledge proofs to enable secure and private transactions across multiple blockchains. This cutting-edge platform addresses the pressing issues of privacy and high transaction costs in DeFi by allowing users to:
 
-## <mark class="highlight">How does AtlasPad operate?</mark>
+- Participate in presales of upcoming projects without revealing their investment size or strategy.
+- Stake assets within a privacy-preserving ecosystem that interlinks with multiple blockchains like Ethereum, Binance Smart Chain, and Mina Protocol.
+- Validate transactions and prove asset ownership without exposing any sensitive information through a novel Merkle tree-based architecture.
 
-Functioning as a launchpad, AtlasPad caters to both participants and projects. Projects aspiring to join AtlasPad undergo a rigorous qualitative evaluation overseen by the AtlasPad team. These evaluations encompass various assessment criteria, including product-market fit, concept viability, team competency, and more.
+This launchpad is designed to empower users with the freedom to move assets across chains discreetly and efficiently, fostering a new paradigm in the DeFi space where privacy and cross-chain functionality coexist seamlessly.
 
-Projects that successfully meet these criteria are offered two pathways: direct listing or participation in the incubation/acceleration program. AtlasPad's ICO platform welcomes projects that clear the qualitative evaluations.
+## Summary
 
-Direct listings allow projects to forego incubation/acceleration programs and exclusively list for an ICO within the AtlasPad community.
-
-Opting for incubation/acceleration offers numerous advantages, including co-marketing and community collaboration. The incubation program typically spans 12-18 months and encompasses the preparation, launch, and post-launch support stages. During the preparation phase, the mentor group streamlines internal processes, optimizes product systems, and assists projects in refining their roadmaps. The launch phase involves promotions and social coordination. Post-launch, AtlasPad offers advisory support, helping projects address the complexities that come with live products on the market.
-
-Acceleration is a condensed version of incubation, designed to be completed within 3-4 months. It's a fitting option for well-established teams requiring specific, limited support.
-
-## <mark class="highlight">AtlasPad's ICO Process</mark>
-
-When projects are poised to list on the platform and launch their token ecosystems, AtlasPad extends support in campaign preparation and community integration. After finalizing specifications like token supply, market rate, and sale duration, the project is listed, and a countdown to the opening begins.
-
-The ICO is unveiled through various communication channels and press releases, followed by a two-round opening process.
-
-## <mark class="highlight">The Role of AtlasPad Token (ATLP)</mark>
-
-APT operates as the catalyst for encouraging community engagement in project bootstrapping. It functions as an added reward system to incentivize membership. By staking a specified amount of APT tokens, AtlasPad community members gain exclusive benefits, including alpha access to ICO participation, airdrops, and more, fostering active participation and support within the AtlasPad ecosystem.
+In today's cryptocurrency ecosystem, the use of launchpads has become increasingly common among investors, facilitating cross-scale crypto asset transactions. Launchpads are typically either centralized or decentralized structures, supported by a single network. According to the crypto-economic trilemma, if a launchpad is centralized, it can gain speed at the expense of security; if it is decentralized, it offers reliability but may adversely affect transaction speed. The major issues for any launchpad and its users, especially investors, revolve around **security** and **privacy**. Despite being preferred for their unverified transactions, launchpads have been subject to abuse within the crypto finance sector. Additionally, when they are verified, problems such as disproportionate centralization and the exploitation of data security arise. Moreover, the absence of any zk-Launchpad on the MINA network and the fact that MINA's EVM compatibility, aside from the auro wallet, is less preferred due to the lack of stable tokens, have led us to make the decision to solve all these problems. _We aim to construct a system that can be entirely verified and anonymous while also increasing user involvement in the MINA network, which we genuinely consider as a solution, by addressing these issues with our developer team, experienced staff, and, of course, "**zkproof**."_
