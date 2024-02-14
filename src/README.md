@@ -1,6 +1,6 @@
 # 🔮 Atlaspad Trustless zk-Launchpad
 
-<figure><img src=".gitbook/assets/Logo.png" alt=""><figcaption><p>Atlaspad Image</p></figcaption></figure>
+<figure><img src="./assets/Logo.png"></figure>
 
 **Atlaspad**, introduces a the first and only trustless **Cross-Chain** **ZK Launchpad** that utilizes zero-knowledge proofs to enable secure and private transactions across multiple blockchains. This cutting-edge platform addresses the pressing issues of privacy and high transaction costs in DeFi by allowing users to:
 
