@@ -1,6 +1,6 @@
 # 🛠 Architecture of "Atlaspad"
 
-<figure><img src="../assets/diagram(24).png" alt=""><figcaption><p>Figure: Figure: Architecture of zkApp Launchpad</p></figcaption></figure>
+<figure><img src="../assets/diagram(24).png" data-clickable-image><figcaption><p>Figure: Figure: Architecture of zkApp Launchpad</p></figcaption></figure>
 
 ## <mark style="color:purple;">Platform Design and Layers</mark>
 
@@ -21,7 +21,7 @@ _Architecture Highlights:_
 - A dedicated Web Client is essential for maintaining a secure and stable connection to blockchain networks.
 - The AI Chatbot is not just a support tool but a feature that can significantly enhance user retention and satisfaction.
 
-<figure><img src="../assets/diagram(21).png" alt=""><figcaption><p>Figure: Layer Schematic</p></figcaption></figure>
+<figure><img src="../assets/diagram(21).png" data-clickable-image><figcaption><p>Figure: Layer Schematic</p></figcaption></figure>
 
 ### `1. User Interface Layer`
 
@@ -35,7 +35,7 @@ _Functionality:_
 - Users initiate presale or staking transactions through this layer and manage the authentication process.
 - Authentication based on Merkle Tree and token allocation information is entered through this layer.
 
-<figure><img src="../assets/diagram(25).png" alt=""><figcaption><p>Figure: User Interface Layer</p></figcaption></figure>
+<figure><img src="../assets/diagram(25).png" data-clickable-image><figcaption><p>Figure: User Interface Layer</p></figcaption></figure>
 
 ### `2. Application Layer`
 
@@ -49,7 +49,7 @@ _Functionality:_
 - This layer utilizes the lightweight nature of the Mina network, allowing users to prove transactions while protecting their credentials.
 - Users can perform presale transactions or request a refund if needed.
 
-<figure><img src="../assets/diagram(26).png" alt=""><figcaption><p>Figure: Application Layer</p></figcaption></figure>
+<figure><img src="../assets/diagram(26).png" data-clickable-image><figcaption><p>Figure: Application Layer</p></figcaption></figure>
 
 ### `3. Network Layer`
 
@@ -64,7 +64,7 @@ _Functionality:_
 - Each blockchain network uses its own oracle for price information and other external data.
 - Users can perform staking transactions and stake their tokens through this layer.
 
-<figure><img src="../assets/diagram(27).png" alt=""><figcaption><p>Figure: Network Layer</p></figcaption></figure>
+<figure><img src="../assets/diagram(27).png" data-clickable-image><figcaption><p>Figure: Network Layer</p></figcaption></figure>
 
 ### `4. Data Storage and Verification Layer`
 
@@ -96,7 +96,7 @@ Merkle Proof includes the following:
 - A list of sibling hashes to enable the construction of the branch from OutX to the top.
 - A list of sibling positions (left/right) to ensure the correct reconstruction of the branch. Merkle Proof is used to prove that a node is below its vertex and show that the vertexes form the overall root.
 
-<figure><img src="../assets/Nullifier Tree.png" alt="" width="375"><figcaption><p>Figure: Merkle Tree</p></figcaption></figure>
+<figure><img src="../assets/Nullifier Tree.png" data-clickable-image width="375"><figcaption><p>Figure: Merkle Tree</p></figcaption></figure>
 
 _Coinbase Output:_
 
@@ -126,7 +126,7 @@ _Architecture Highlights:_
 - <mark style="color:purple;">**Off-Chain Storage with Homomorphic Encryption:**</mark> Provides a secure way to compute on encrypted data.
 - <mark style="color:purple;">**IPFS or Celestia Data Availability:**</mark> Offers decentralized storage solutions for persistent data availability.
 
-<figure><img src="../assets/diagram(28).png" alt=""><figcaption><p>Figure: Data Layer</p></figcaption></figure>
+<figure><img src="../assets/diagram(28).png" data-clickable-image><figcaption><p>Figure: Data Layer</p></figcaption></figure>
 
 ### `5. Oracle Layer`
 
@@ -135,8 +135,8 @@ Our primary objective is to incorporate the use of oracles into our system. To a
 • In Atlas Oracle we will create ABIs to integrate with external data providers (contracts and user). These ABI functions will communicate with Merkle Tree to work with other MINA wallets to write an Oracle in each network.
 
 <div align="center" data-full-width="false">
-  <figure><img src="../assets/Ekran Resmi 2024-02-05 16.36.20.png" alt="" width="375"><figcaption><p>Figure: Oracle</p></figcaption></figure>
-  <figure><img src="../assets/diagram(29).png" alt=""><figcaption><p>Figure: Oracle Layer</p></figcaption></figure>
+  <figure><img src="../assets/Ekran Resmi 2024-02-05 16.36.20.png" data-clickable-image width="375"><figcaption><p>Figure: Oracle</p></figcaption></figure>
+  <figure><img src="../assets/diagram(29).png" data-clickable-image><figcaption><p>Figure: Oracle Layer</p></figcaption></figure>
 </div>
 
 ### `6. Wallet Layer`
@@ -151,13 +151,13 @@ _Architecture Highlights:_
 
 3. <mark style="color:purple;">**Cross-Chain Compatibility:**</mark> Ensures the wallet can operate over multiple blockchains, increasing its utility.
 
-<figure><img src="../assets/Ekran Resmi 2024-02-05 16.37.58.png" alt="" width="563"><figcaption><p>Figure: zk-Wallet</p></figcaption></figure>
+<figure><img src="../assets/Ekran Resmi 2024-02-05 16.37.58.png" data-clickable-image width="563"><figcaption><p>Figure: zk-Wallet</p></figcaption></figure>
 
 _Why It's the Right Choice:_
 
 - The focus on core wallet functionalities ensures a secure and reliable financial environment.
 
-<figure><img src="../assets/diagram(30).png" alt=""><figcaption><p>Figure: Wallet Layer</p></figcaption></figure>
+<figure><img src="../assets/diagram(30).png" data-clickable-image><figcaption><p>Figure: Wallet Layer</p></figcaption></figure>
 
 
 _Technology:_
@@ -197,7 +197,7 @@ _Technology:_
 - Includes example networks such as Bnb, Eth, Avalanche.
 - It is used for presale functions and is integrated with an oracle.
 
-<figure><img src="../assets/Scenerio(1).png" alt=""><figcaption><p>Figure: Scenerio of Atlaspad</p></figcaption></figure>
+<figure><img src="../assets/Scenerio(1).png" data-clickable-image><figcaption><p>Figure: Scenerio of Atlaspad</p></figcaption></figure>
 
 _Functionality:_
 
@@ -221,7 +221,7 @@ _Functionality:_
 
 <mark style="color:purple;">**Contract List**</mark>
 
-<figure><img src="../assets/diagram(20).png" alt=""><figcaption><p>Figure: Contract Networks</p></figcaption></figure>
+<figure><img src="../assets/diagram(20).png" data-clickable-image><figcaption><p>Figure: Contract Networks</p></figcaption></figure>
 
 - **`Oracle Contract(s)`**` ``-solidity`\
 - **`TokenLocker Contract`**` ``-solidity`\
