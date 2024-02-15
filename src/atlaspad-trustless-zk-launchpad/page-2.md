@@ -7,8 +7,6 @@
 <figure class=right><img src="../assets/7.png" data-clickable-image width="188"><figcaption><p>Çağlar Fırat</p></figcaption></figure>
 
 - Active in the crypto sector since 2019. 
-- Global community leader and BD & Kols manager at Kommunitas.net. 
-- Daostarter, Trustfi, ixirpad, cheersland, erax are among the launch platforms he mediated. He is advising many unlisted projects._ \
 
 _As of 2023 September, he is one of the founders of Atlaspad. Çağlar, in his role as Head of Com & BD at Dappad, played a pivotal role in shaping the project's communication strategy and facilitating the establishment of its community._
 
@@ -25,8 +23,6 @@ _Çağlar devised strategic plans for the `Turkey, Arab, Russia, and China regio
 <figure class=right><img src="../assets/1.png" data-clickable-image width="188"><figcaption><p>Baturalp Güvenç</p></figcaption></figure>
 
 **Graduated Department:** Computer Engineering on 2018 \
-**Active Smart Contract Developer:** DATS Project & Arbeit Studio & Cuberium \
-**Public Sector:** He is the founder of the Siber Vatan Blockchain Team (Cuberium Sec.) established by the Republic of TR Digital Transformation Office and the Ministry of Technology and Industry of TR.
 
 #### Skills:
 
@@ -55,9 +51,17 @@ _Çağlar devised strategic plans for the `Turkey, Arab, Russia, and China regio
 
 <figure class=right><img src="../assets/6.png" data-clickable-image width="188"><figcaption><p>Sena Atay</p></figcaption></figure>
 
-She graduated from Bilkent University, Information Technology and Information Systems. She knows various software languages like `C++, C#, Java, .NET`.
+She graduated from Bilkent University, Computer Technology and Information Systems.  `, , , `.
+_She is active in crypto world since 2021 and she worked as a community & marketing manager. She is recognised as a successful female executive in the industry. She also interests in mining and rig setup. She set up her own rig system and mined for a long time. Additionaly, she loves to investigate new projects and make investments to them._
 
-_She is active in crypto world since 2021 and she worked as a community & marketing manager at Komodo, a company formed by the former co-founders of Ethereum. She has also worked as `Flutter` developer in the same project. She is recognised as a successful female executive in the industry. She also interests in mining and rig setup. She set up her own rig system and mined Ethereum for a long time. Additionaly, she loves to investigate new projects and make investments to them._
+#### Skills:
+- **Software:** `C++, C#` \
+- **Java**
+- **Web:** `.NET` \
+
+
+  
+
 
 • LinkedIn: [https://www.linkedin.com/in/ataysena/](https://www.linkedin.com/in/ataysena/)
 
