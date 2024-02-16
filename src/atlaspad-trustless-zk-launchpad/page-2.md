@@ -8,7 +8,7 @@
 
 - Active in the crypto sector since 2019. 
 
-_As of 2023 September, he is one of the founders of Atlaspad. Çağlar, in his role as Head of Com & BD at Dappad, played a pivotal role in shaping the project's communication strategy and facilitating the establishment of its community._
+_As of 2023 September, he is one of the founders of Atlaspad. Çağlar, in his role as Head of big Launchpads, played a pivotal role in shaping the project's communication strategy and facilitating the establishment of its community._
 
 **Communication Skills:** Caglar has a strong ability to identify and implement communication strategies. He has increased the success of projects by communicating effectively with investors, community members and business partners. In particular, he is recognized for his ability to clearly and effectively communicate the project vision. Through both written and verbal communication skills, he has built strong relationships among stakeholders and contributed to the achievement of project objectives.
 
