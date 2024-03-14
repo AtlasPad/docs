@@ -53,24 +53,6 @@ _As of 2023 September, he is one of the founders of Atlaspad. Çağlar, in his r
 • Old GitHub (broken): [https://github.com/baturalpguvenc ](https://drive.google.com/file/d/1d7OUKvGZulWpJcqrspK7gN7f8gqVqEOG/view?usp=drive\_link)\
 • New GitHub: [https://github.com/virijlakrum](https://github.com/virjilakrum)
 
-### Sena Atay | CMO
-
-<figure class=right><img src="../assets/6.png" data-clickable-image width="188"><figcaption><p>Sena Atay</p></figcaption></figure>
-
-She graduated from Bilkent University, Computer Technology and Information Systems.  `, , , `.
-_She is active in crypto world since 2021 and she worked as a community & marketing manager. She is recognised as a successful female executive in the industry. She also interests in mining and rig setup. She set up her own rig system and mined for a long time. Additionaly, she loves to investigate new projects and make investments to them._
-
-#### Skills:
-- **Software:** `C++, C#` \
-- **Java**
-- **Web:** `.NET` \
-
-
-  
-
-
-• LinkedIn: [https://www.linkedin.com/in/ataysena/](https://www.linkedin.com/in/ataysena/)
-
 ### Yunus Emre Yoldaş | Backend & Smartcontract Developer
 
 <figure class=right><img src="../assets/3.png" data-clickable-image width="188"><figcaption><p>Yunus Emre Yoldaş</p></figcaption></figure>
